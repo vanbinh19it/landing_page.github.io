@@ -1,0 +1,56 @@
+.web-landing-page {
+       max-width: 1440;
+       
+}
+
+.head-content {
+       width: 205px;
+       height: 73px;
+       flex-shrink: 0;
+
+      
+ }
+
+.head-content__Demo {
+       color: #E71D36;
+       font-family: Inter;
+       font-size: 65px;
+       font-style: normal;
+       font-weight: 700;
+       line-height: normal;
+}
+
+
+.header-navbar .navbar-nav a{
+       color: #011627;
+       font-family: Inter;
+       font-size: 18px;
+       font-style: normal;
+       font-weight: 400;
+       line-height: normal;
+}
+
+
+
+
+.button-header {
+       
+              flex-shrink: 0;
+
+              border-radius: 48px;
+              background: #E71D36;
+}
+
+.button-header__contact {
+       color: #FFF;
+       
+              font-family: Inter;
+              font-size: 18px;
+              font-style: normal;
+              font-weight: 500;
+              line-height: normal;
+
+              display: flex;
+                     margin: auto;
+                     padding: 15px 44px;
+}
